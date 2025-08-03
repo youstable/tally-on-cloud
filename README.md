@@ -1,6 +1,6 @@
 # 🚀 Automate Tally on Cloud – One-Click Tally ERP 9 & TallyPrime Setup
 
-Easily **host Tally on Cloud** with automation scripts to deploy, configure, and manage Tally ERP 9 or TallyPrime on any **Windows or Linux-based cloud server**. This open-source project is designed for businesses, CA firms, and IT administrators looking to **access Tally from anywhere, anytime** without manual configurations.
+Easily **host [Tally on Cloud](https://www.youstable.com/tally-on-cloud)** with automation scripts to deploy, configure, and manage Tally ERP 9 or TallyPrime on any **Windows or Linux-based cloud server**. This open-source project is designed for businesses, CA firms, and IT administrators looking to **access Tally from anywhere, anytime** without manual configurations.
 
 ---
 
